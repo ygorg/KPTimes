@@ -1,4 +1,4 @@
-# KeyPhrase News Corpus (KPNC)
+# KPTimes Corpus
 
 ## Data fields
 

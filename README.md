@@ -1,8 +1,8 @@
-# KPTimes Corpus
+# 📰 KPTimes Corpus
 
 ## Data fields
 
-The name of the fields was chosen to match [KP20k](https://github.com/memray/seq2seq-keyphrase#data).
+The name of the fields were chosen to match [KP20k](https://github.com/memray/seq2seq-keyphrase#data).
 
 * **id** : unique identifier for the document
 * **date** : publishing date (YYYY/MM/DD)

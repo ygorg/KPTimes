@@ -1,5 +1,7 @@
 # 📰 KPTimes Corpus
 
+**Downloaded and processed version of the dataset will soon be released**
+
 ## Data fields
 
 The name of the fields were chosen to match [KP20k](https://github.com/memray/seq2seq-keyphrase#data).

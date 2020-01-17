@@ -1,6 +1,13 @@
 # 📰 KPTimes Corpus
 
-**Downloaded and processed version of the dataset will soon be released**
+**Update 17/01/2020** : Adding download links for minimal version
+
+## Download links
+
+These files contains the `id`, `title`, `abstract` and `keyword` fields.
+* [KPTimes.test.jsonl.gz](https://drive.google.com/open?id=1LSREXfJxAK2jbzzvXYUvXufPdvL_Aq1J)
+* [KPTimes.valid.jsonl.gz](https://drive.google.com/open?id=1XgVZbIw0Cbs2ZczBj2-tUKg3Z2whi5Zm)
+* [KPTimes.train.jsonl.gz](https://drive.google.com/open?id=12chZA87VUviFyOh1qWs8DI33hbjKsKiv)
 
 ## Data fields
 

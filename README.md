@@ -74,6 +74,10 @@ keyphrases = [v for kw in keyword.split(';') for v in kw.split(',')]
 
 If you find problems in the dataset, please use file an Issue or contact ygor.gallina [at] univ-nantes.fr.
 
+## License
+
+See [LICENCE](https://github.com/ygorg/KPTimes/blob/master/LICENSE). Please note that the documents were extracted from [NYTimes](https://www.nytimes.com/) and [JPTimes](https://www.japantimes.co.jp/) and are their property.
+
 ## Citation
 
 Gallina, Ygor, Florian Boudin, and Béatrice Daille.

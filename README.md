@@ -76,4 +76,16 @@ If you find problems in the dataset, please use file an Issue or contact ygor.ga
 
 ## Citation
 
-Cf. [INLG19 Proceedings](https://www.inlg2019.com)
+Gallina, Ygor, Florian Boudin, and Béatrice Daille.
+KPTimes: A Large-Scale Dataset for Keyphrase Generation on News Documents."
+Proceedings of the 12th [International Conference on Natural Language Generation](https://www.inlg2019.com/). 2019.
+
+```
+@inproceedings{gallina2019kptimes,
+  title={KPTimes: A Large-Scale Dataset for Keyphrase Generation on News Documents},
+  author={Gallina, Ygor and Boudin, Florian and Daille, B{\'e}atrice},
+  booktitle={Proceedings of the 12th International Conference on Natural Language Generation},
+  pages={130--135},
+  year={2019}
+}
+```

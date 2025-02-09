@@ -1,13 +1,13 @@
 # 📰 KPTimes Corpus
 
-**Update 17/01/2020** : Adding download links for minimal version
+* **Update 09/02/205** : Adding link to the [huggingface dataset repository](https://huggingface.co/datasets/taln-ls2n/kptimes)
+* **Update 17/01/2020** : Adding download links for minimal version
 
 ## Download links
 
-These files contains the `id`, `title`, `abstract` and `keyword` fields.
-* [KPTimes.test.jsonl.gz](https://drive.google.com/open?id=1LSREXfJxAK2jbzzvXYUvXufPdvL_Aq1J)
-* [KPTimes.valid.jsonl.gz](https://drive.google.com/open?id=1XgVZbIw0Cbs2ZczBj2-tUKg3Z2whi5Zm)
-* [KPTimes.train.jsonl.gz](https://drive.google.com/open?id=12chZA87VUviFyOh1qWs8DI33hbjKsKiv)
+Please download the dataset from our huggingface repository.
+* [https://huggingface.co/datasets/taln-ls2n/kptimes](https://huggingface.co/datasets/taln-ls2n/kptimes)
+
 
 ## Data fields
 
